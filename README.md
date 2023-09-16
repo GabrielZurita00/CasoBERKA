@@ -6,4 +6,4 @@ Trabajo realizado por:
 - Gina Fabiana Villanueva Viscarra
 - Gabriel Zurita Gómez
 
-Repositorio de [Google Colab](https://colab.research.google.com/drive/1CclmERbvoQ1F0ef0r7hAP17uYQSrJTEH#scrollTo=M0qDKevEwuma)
+Repositorio de [Google Colab](https://colab.research.google.com/drive/1CclmERbvoQ1F0ef0r7hAP17uYQSrJTEH)
